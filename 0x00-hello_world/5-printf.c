@@ -3,6 +3,7 @@
  * main - Print a line using printf function
  * Return: 0 (Successs)
 */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\");
